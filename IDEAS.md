@@ -1,0 +1,3 @@
+- [ ] possibility to create fp alert !alert_fp >= 3
+- [ ] get floor !fp robo_cooks
+- [ ] new sale alert from wallet register
